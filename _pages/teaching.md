@@ -196,9 +196,3 @@ Give these problems a try to test your understanding:
 
 ---
 
-## Contact
-
-If you have questions or spot a broken link, reach out:
-
-**Tara Murphy**  
-<a href="mailto:tm763@cam.ac.uk">tm763@cam.ac.uk</a> · +353 (0) 87 434 5432
