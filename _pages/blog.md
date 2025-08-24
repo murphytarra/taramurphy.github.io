@@ -9,17 +9,17 @@ toc: false
 
 # Define your blog "sections" (these will become subpages at /blog/<slug>/)
 sections:
-  - name: Quantum & ML
-    slug: quantum-ml
+  - name: General
+    slug: quantum
     icon: fas fa-atom
-    blurb: Research explainers, simulations, and thoughts at the theory–experiment interface.
+    blurb: Blogs that don't quite fit any other category.
     color: primary
-  - name: Tutorials & Guides
+  - name: Quantum and Machine Learning
     slug: tutorials
     icon: fas fa-chalkboard-teacher
-    blurb: Hands-on how-tos, code walk-throughs, and practical recipes.
+    blurb: Research explainers, code walk-throughs, and practical examples.
     color: info
-  - name: Lab Notes
+  - name: A Miss You May Have Missed
     slug: lab-notes
     icon: fas fa-flask
     blurb: Day-to-day discoveries, debugging tales, and methods I wish I’d known sooner.
@@ -40,13 +40,6 @@ sections:
     blurb: Updates and extras from my quantum colouring book project.
     color: secondary
 ---
-
-<div class="p-4 p-md-5 mb-4 bg-primary bg-gradient text-white rounded-3 shadow-sm">
-  <div class="container-fluid py-2">
-    <h1 class="display-5 fw-bold mb-1">Tara’s Blog</h1>
-    <p class="lead mb-0">Notes from the quantum–ML frontier, clear tutorials, and a dash of playful science.</p>
-  </div>
-</div>
 
 <!-- Quick category buttons -->
 <div class="d-flex flex-wrap gap-2 mb-4">
